@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\Producer.exe.config
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\Producer.exe
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\Producer.pdb
+C:\Users\user\source\repos\webCamera\Producer\obj\Debug\Producer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\webCamera\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\webCamera\Producer\obj\Debug\Producer.exe
+C:\Users\user\source\repos\webCamera\Producer\obj\Debug\Producer.pdb
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\AForge.dll
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\AForge.Video.dll
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\AForge.xml
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\AForge.Video.xml
+C:\Users\user\source\repos\webCamera\Producer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\source\repos\webCamera\Producer\obj\Debug\Producer.csproj.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\webCamera\webCamera\bin\Release\webCamera.exe.config
+C:\Users\user\source\repos\webCamera\webCamera\bin\Release\webCamera.exe
+C:\Users\user\source\repos\webCamera\webCamera\bin\Release\webCamera.pdb
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\MainWindow.g.cs
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\App.g.cs
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera_MarkupCompile.cache
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera_MarkupCompile.lref
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\MainWindow.baml
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera.g.resources
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera.Properties.Resources.resources
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera.csproj.GenerateResource.cache
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera.exe
+C:\Users\user\source\repos\webCamera\webCamera\obj\Release\webCamera.pdb
